@@ -1,0 +1,70 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Desktop\\zhy_gestureLockView\\zhy_gestureLockView\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\zhy_gestureLockView\\zhy_gestureLockView\\src\\main\\res\\values\\attr.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,105,155,218,281,323",
+                        "endColumns": "49,49,62,62,41,44",
+                        "endOffsets": "100,150,213,276,318,363"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\zhy_gestureLockView\\zhy_gestureLockView\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "14,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "982,1065",
+                        "endLines": "16,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "1060,1132"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\zhy_gestureLockView\\zhy_gestureLockView\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "705,763",
+                        "endColumns": "57,55",
+                        "endOffsets": "758,814"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\zhy_gestureLockView\\zhy_gestureLockView\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "11,12,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "819,872,929",
+                        "endColumns": "52,56,52",
+                        "endOffsets": "867,924,977"
+                    }
+                }
+            ]
+        }
+    ]
+}
