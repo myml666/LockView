@@ -20,6 +20,10 @@
         "source": "C:\\Users\\Administrator\\Desktop\\zhy_gestureLockView\\zhy_gestureLockView\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\zhy_gestureLockView\\zhy_gestureLockView\\build\\intermediates\\res\\merged\\debug\\layout_activity_s.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\zhy_gestureLockView\\zhy_gestureLockView\\src\\main\\res\\layout\\activity_s.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\zhy_gestureLockView\\zhy_gestureLockView\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\Administrator\\Desktop\\zhy_gestureLockView\\zhy_gestureLockView\\src\\main\\res\\layout\\activity_main.xml"
     }

@@ -22,9 +22,5 @@
 <!--   zhy:color_no_finger_inner_circle="#ff085D58"
         zhy:color_no_finger_outer_circle="#ff08F0E0"
         zhy:color_finger_on="#FF1734BF" -->
-<Button
-    android:text="家居设计"
-    android:onClick="onClick"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content" />
+
 </RelativeLayout>

@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml
@@ -36,7 +36,7 @@ INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLock
 		INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:11:5-25:19
+ADDED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:11:5-26:19
 	android:label
 		ADDED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:14:9-41
 	android:icon
@@ -61,3 +61,9 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:22:17-77
 	android:name
 		ADDED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:22:27-74
+activity#com.zhy.zhy_gesturelockview.SecondActivity
+ADDED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:25:9-88
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:25:50-86
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\zhy_gestureLockView\zhy_gestureLockView\src\main\AndroidManifest.xml:25:19-49
